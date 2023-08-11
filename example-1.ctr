@@ -1,0 +1,31 @@
+# This is a (non-exhaustive) category tree for language families
+# Comments start with a '#', btw
+
+Austro-Asiatic
+	# Indentation (tabulator) opens a new sub-category
+	Khmer
+	Vietic
+		Vietnamese
+		Muong
+
+# Empty lines are ignored
+
+Austronesian
+	Atalayic
+		Atayal
+		Seediq
+	Malayo-Polynesian
+		Indonesian
+		Tagalog
+
+Indo-European
+	Germanic
+		English
+		German
+	Indo-Aryan
+		Hindi
+		Kashmiri
+	Slavic
+		Czech
+		Polish
+		Russian

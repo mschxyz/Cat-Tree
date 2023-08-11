@@ -1,0 +1,18 @@
+# Indentation doesn't have to be done with tabulators
+# Any sequence is acceptable, but it should be consistant
+# We'll use dashes here
+# Spaces around category names will be ignored
+# (That is, unless the single whitespace character itself is used for indentation...)
+
+# Let's talk about egg dishes by region
+Asia
+- Balut
+- Century Egg
+- Japan
+-- Datemaki
+-- Tamago kake gohan
+Europe
+- Scoth egg
+- France
+-- Quiche
+-- Soufflé
