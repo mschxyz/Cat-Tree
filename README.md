@@ -2,7 +2,7 @@
 
 # Cat Tree
 
-A *very* simple representation of category hierarchies.
+A *very* simple plain text representation of category hierarchies.
 
 It should be human-readable and easily (de-)serializable.
 
@@ -76,7 +76,7 @@ Asia
 -- Datemaki
 -- Tamago kake gohan
 Europe
-- Scoth egg
+- Scotch egg
 - France
 -- Quiche
 -- Soufflé
