@@ -1,4 +1,4 @@
-<img align="right" src="cat-tree.webp" title="Cat Tree Logo (by Craiyon)">
+<img align="right" src="logo/cat-tree.webp" title="Cat Tree Logo (by Craiyon)">
 
 # Cat Tree
 
