@@ -1,4 +1,4 @@
-<img align="right" src="logo/cat-tree.webp" title="Cat Tree Logo (by Craiyon)">
+<img align="right" src="logo/cat-tree-150px.webp" title="Cat Tree Logo (by Craiyon)">
 
 # Cat Tree
 
@@ -63,7 +63,7 @@ example-2.ctr
 
 ```
 # Indentation doesn't have to be done with tabulators
-# Any sequence is acceptable, but it should be consistant
+# Any character is acceptable, but it should be consistant
 # We'll use dashes here
 # Spaces around category names will be ignored
 # (That is, unless the single whitespace character itself is used for indentation...)
@@ -81,6 +81,11 @@ Europe
 -- Quiche
 -- Soufflé
 ```
+
+## Libraries
+
+* **Python**
+	* [PyCatTree](https://github.com/mschxyz/PyCatTree)
 
 ## Changelog
 
